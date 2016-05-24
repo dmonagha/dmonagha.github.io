@@ -96,10 +96,10 @@ body {
   margin: 20px 0;
 }
 .container a {
-  color: #27A822;
+  color: #00CCA3;
 }
 .container a:hover {
-  color: #267723;
+  color: #00997A;
 }
 .img-responsive {
  display: block;
@@ -120,10 +120,10 @@ body {
   font-size: 15px;
 }
 .panel-default h4 a, h5 a {
-  color: #27A822;
+  color: #00CCA3;
 }
 .panel-default h4 a:hover, h5 a:hover {
-  color: #267723;
+  color: #00997A;
 }
 .panel{
   border-style: none;
@@ -174,7 +174,7 @@ body {
 	color: #6b6b6b;
 }
 div.footer{
-  border-bottom: 5px solid #27A822;;
+  border-bottom: 5px solid #00CCA3;;
 }
 /* Set the fixed height of the footer here */
 /*.footer {
